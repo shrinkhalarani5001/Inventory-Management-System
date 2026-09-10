@@ -1,2 +1,10 @@
-# Project exclude paths
-/Inventory-/target/
+# Maven
+target/
+*.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# ZIP files
+*.zip
